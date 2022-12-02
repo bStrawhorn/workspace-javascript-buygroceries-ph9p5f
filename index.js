@@ -17,14 +17,13 @@ import * as firebaseui from "firebaseui";
 
 // Add Firebase project configuration object here
 var firebaseConfig = {
-  apiKey: "AIzaSyAzcwgZuLA7dO9g4sQhXQVTUgCo0M8m2qM",
-  authDomain: "grocerylist-91956.firebaseapp.com",
-  databaseURL: "https://grocerylist-91956.firebaseio.com",
-  projectId: "grocerylist-91956",
-  storageBucket: "grocerylist-91956.appspot.com",
-  messagingSenderId: "813812426276",
-  appId: "1:813812426276:web:93e5897af12892ff78dab1",
-  measurementId: "G-VZ83BTR72T"
+  apiKey: "AIzaSyDsaFaPn3TzaYWia-JSIrzykVQqmW0HQTw",
+  authDomain: "groceries-94ecb.firebaseapp.com",
+  projectId: "groceries-94ecb",
+  storageBucket: "groceries-94ecb.appspot.com",
+  messagingSenderId: "239461850316",
+  appId: "1:239461850316:web:6ab2c52047feacb106b669",
+  measurementId: "G-KFQX68L0EZ"
 };
 
 firebase.initializeApp(firebaseConfig);
